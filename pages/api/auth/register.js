@@ -44,16 +44,17 @@ const sendRegistrationEmail = async (toEmail, userName) => {
     const transporter = nodemailer.createTransport({
         host: 'smtp.gmail.com', // e.g., 'gmail'
         auth: {
-            user: "devnaitik104@gmail.com",
-            pass: "dgrrzvzzuxqikhtr"
+            user: "harshitmongia12@gmail.com",
+            pass: "iryk bkfn ohsv kmxe"
         }
     });
 
     const mailOptions = {
-        from: 'devnaitik104@gmail.com',
+        from: 'harshitmongia12@gmail.com',
         to: toEmail,
         subject: 'Registration Successful',
-        text: `Dear ${userName},\n\nThank you for registering with us. Your account has been created successfully.\n\nBest regards,\nYour App Name`
+        text: `Dear ${userName},\nThank you for taking the time to register on the Kaamgar Shayak Junction website. \nWe are thrilled to welcome you to our community of empowered workers dedicated to supporting each other and advocating for positive change in the workplace.
+        \nBest Regards,\nKaamgar Sahayak Junction(K.S.J.)`
     };
 
     try {
