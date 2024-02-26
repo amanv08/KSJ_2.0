@@ -6,15 +6,15 @@ import { setUserToken, setUserData } from '@/Utils/UserSlice'
 import { useEffect } from 'react'
 import Cookies from 'js-cookie'
 import useSWR from 'swr'
+import ResetPasswordPage from './auth/ResetPasswordPage';
 import { get_job } from '@/Services/job'
 import { setJobData } from '@/Utils/JobSlice'
 import { InfinitySpin } from 'react-loader-spinner'
-
-
-
+import { useRouter } from 'next/router';
 export default function Home() {
   const dispatch = useDispatch();
   const token = Cookies.get('token');
+  const router = useRouter();
 
   console.log("TOKEN: ", token);
 
@@ -35,6 +35,14 @@ export default function Home() {
       dispatch(setUserData(null))
     }
   }, [token, dispatch])
+
+
+  useEffect(() => {
+    if (router.pathname === '/resetPasswordPage') {
+      router.push(<ResetPasswordPage/>);
+    }
+  }, [router.pathname]);
+
 
   return (
     <>
@@ -68,8 +76,10 @@ export default function Home() {
               <Intro />
             </div>
           </>
+
         )
       }
     </>
+
   )
 }

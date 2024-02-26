@@ -27,68 +27,64 @@
 
 
 
-## About Jansewa:
+## About Kaamgar Sahayak Junction :
 
-JanSewa is a unique e-job portal designed to directly connect laborers such as plumbers, electricians, carpenters, and other similar professionals with job employers. The platform aims to provide better accessibility and more opportunities for local workers, by enabling them to connect directly with potential employers quickly and efficiently.
+Kaamgar Sahayak Junction is an innovative e-job portal tailored to directly connect laborers, including painters, daily wage workers, plumbers, electricians, carpenters, mechanics, housemaids, and drivers, with potential employers. The platform's aim is to enhance accessibility and broaden opportunities for local workers by facilitating swift and efficient connections with prospective employers.
 
-With JanSewa, employers can post job listings on the platform and connect with skilled workers in their local area, ensuring that the right person is hired for the job. This service aims to reduce the hassle of finding reliable workers by providing a direct link between employers and workers.
+Through Kaamgar Sahayak Junction, employers can post job listings and connect with skilled workers in their vicinity, ensuring the right fit for the job. This service aims to alleviate the challenges of finding reliable workers by establishing a direct link between employers and laborers.
 
-Furthermore, JanSewa also aims to help skilled workers who may struggle to find job opportunities due to socio-economic conditions or other factors by connecting these professionals directly with potential employers, the platform can help them secure work and provide for their families.
+Moreover, Kaamgar Sahayak Junction strives to assist skilled workers facing hurdles in securing job opportunities due to socio-economic factors. By directly connecting these professionals with potential employers, the platform aids them in securing work and supporting their families.
 
-JanSewa strives to make the hiring process more accessible, efficient, and affordable for all parties involved. With its user-friendly platform and focus on connecting local workers with employers, JanSewa is set to become an essential tool for those seeking to find reliable skilled labor near VIT Bhopal remote areas and beyond.
+Kaamgar Sahayak Junction endeavors to streamline the hiring process, making it more accessible, efficient, and cost-effective for all parties involved. With its user-friendly interface and emphasis on connecting local workers with employers, Kaamgar Sahayak Junction is poised to become an indispensable tool for sourcing reliable skilled labor in remote areas near VIT Bhopal and beyond.
 
-•	Categories of workers-
-•	Painters
-•	Daily Wage Workers
-•	Plumbers
-•	Electricians
-•	Carpenter
-•	Mechanic
-•	Housemaids
-•	Drivers
-
-Working Principle:
-Login or Register and User Authentication :
-
-1.	Our e-job portal site will start with a login/Signup page.
-2.	To get access to our website, A user has to sign up for our website for the first time. After signing up, the user can log in using the username and password.
-3.	After logging in, users will get access to our e-job portal.
-4.	Skilled workers can register on JanSewa's portal as job seekers/employees.
-5.	Registered employers can filter their search by city and specific job requirements.
-6.	A list of relevant employees and laborers will be displayed to the employer based on their search criteria.
-
-JanSewa Job Seekers Actions:
-
-1.	Job seekers can register, edit, or delete their profiles through the website or message.
-2.	Upon successful registration, the job seekers will receive notifications on their app screen or through email/MMS for any job opportunities that match their skills and location.
-
-Employers Action:
-
-1.	Employers or job givers can create their profile, edit, and delete it as per their requirements on the JanSewa website.
-2.	They can search for job seekers who are registered on the platform.
-3.	The website will display the list of job seekers available in their current city on the home page.
-4.	Employers can also search for specific job seekers based on their skill set, location, availability, and wages.
-5.	The employer can contact the job seeker through the website or other modes of communication provided by the platform.
-
-Categories of Services available on our site and Service page:
-
-1.	Once you log in, you will be directed to the home page of our website.
-2.	The home page consists of the categories of services related to job seekers and employers.
-3.	When the user clicks on one of the categories, a web page will open with a list of available services related to that category.
-4.	When the user clicks on a specific service, a service page will open with brief information about that service. It will also display the availability of the service in the user's region and available employees for work.
+**Categories of Workers:**
+- Painters
+- Daily Wage Workers
+- Plumbers
+- Electricians
+- Carpenters
 
 
-NGO Regulated:
+**Operating Principle:**
+**Login or Register and User Authentication:**
 
-1.	NGOs and related organizations can create their profile and post job openings on the JanSewa website.
-2.	The website will send job opening message notifications to workers who have registered with the website.
-3.	NGOs and related organizations can edit and delete their profiles on the website as needed.
- 
-Dashboard to Monitor:
+1. The journey begins with a login/signup page on our e-job portal.
+2. Users must sign up initially to access our website. Subsequently, they can log in using their username and password.
+3. Upon logging in, users gain access to Kaamgar Sahayak Junction.
+4. Skilled workers can register on the platform as job seekers/employees.
+5. Registered employers can filter their search by city and specific job requirements.
+6. Based on the employer's search criteria, a list of relevant employees and laborers will be displayed.
 
-1.	The dashboard provides job seekers with a status update on their job applications.
-2.	Notifications regarding job openings and application status will be sent to job seekers through the sms or email.
-3.	Skilled and unskilled workers looking for employment opportunities can register as job seekers/laborers through our portal. Once registered, employers who are also registered on the platform can filter job seekers in their city who are qualified for the job they need. This matching process allows for a streamlined connection between job seekers and employers, thus facilitating job opportunities without any educational literacy or gender boundaries.
+**Actions for Job Seekers on Kaamgar Sahayak Junction:**
+
+1. Job seekers can register, edit, or delete their profiles via the website or messaging.
+2. Upon successful registration, job seekers receive notifications regarding job opportunities matching their skills and location.
+
+**Employers' Actions:**
+
+1. Employers can create, edit, and delete their profiles on the Kaamgar Sahayak Junction website.
+2. They can search for registered job seekers on the platform.
+3. The homepage displays a list of job seekers available in the employer's current city.
+4. Employers can search for specific job seekers based on skill set, location, availability, and wages.
+5. Contact with job seekers can be initiated through the website or other communication channels provided.
+
+**Service Categories Available on the Site and Service Page:**
+
+1. Upon login, users are directed to the website's homepage featuring service categories for job seekers and employers.
+2. Clicking on a category opens a webpage listing available services related to that category.
+3. Selecting a specific service opens a service page with brief information and availability details in the user's region, along with available employees.
+
+**NGO Regulation:**
+
+1. NGOs and related organizations can create profiles and post job openings on the Kaamgar Sahayak Junction website.
+2. Job opening notifications are sent to registered workers.
+3. NGOs can edit and delete their profiles as needed.
+
+**Dashboard for Monitoring:**
+
+1. The dashboard provides job seekers with status updates on their job applications.
+2. Notifications regarding job openings and application status are sent via SMS or email.
+3. Skilled and unskilled workers seeking employment opportunities can register as job seekers/laborers via our portal. Employers, also registered on the platform, can filter job seekers in their city who meet their job requirements. This matching process facilitates streamlined connections between job seekers and employers, transcending educational literacy or gender barriers.
 
 
 
